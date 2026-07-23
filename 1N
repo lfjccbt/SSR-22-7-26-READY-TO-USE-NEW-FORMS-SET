@@ -2452,16 +2452,16 @@ const FORM_FIELDS = {
 
 
 const GOOGLE_FORMS = {
-    '1': "https://docs.google.com/forms/d/e/1FAIpQLSfDqJ96BQj-kHj6RwHW1Vb1jSUQ7x-2lxMbSEAtb1GNVGB6xA/formResponse",
-    '2': "https://docs.google.com/forms/d/e/1FAIpQLSdnZdv40aL5Ru4r-R0k6VJdpU-1V1BfgOBl9s_PHwBjkgToYg/formResponse",
-    '3': "https://docs.google.com/forms/d/e/1FAIpQLSeFGU6ngws5V1Un--VElcO7ivRtXUcOLzdIvEUQNu7RrZvpLw/formResponse",
-    '4': "https://docs.google.com/forms/d/e/1FAIpQLSdwMn5az6oBg6GZknUib_G-qHECxPb7bXg2yoqK_vjxGU4JQg/formResponse",
-    '5': "https://docs.google.com/forms/d/e/1FAIpQLSeuej9VVaxkv5Ail7Pbk5yzS5HuOlen2bVz4L2rsdywWBIvmQ/formResponse",
-    '6': "https://docs.google.com/forms/d/e/1FAIpQLSdV9wo2ANl-BP9HFj0ZvlVYSClJnHj4JEEZpXS6CNx6BIkLYQ/formResponse",
-    '7': "https://docs.google.com/forms/d/e/1FAIpQLSciFvDMM8IKo5K1YgV0DXHXyzZtBNnz8kZB_WybewvN0wQUvA/formResponse",
-    '8': "https://docs.google.com/forms/d/e/1FAIpQLSd9Oj2FaCzpmqQesWmQL-5t1FKfUfzz5AaVTc-Dq-eDujUr3g/formResponse",
-    '9': "https://docs.google.com/forms/d/e/1FAIpQLSdeUH8oatXXsB9NuQpsbRWfnGj0N5Cbh7SVe07tmcUW9WJj8A/formResponse",
-    '10': "https://docs.google.com/forms/d/e/1FAIpQLSfbGaaOX6w5VGSfbqwBJEjc65JddzbZ4cfkIPCOcnMUcIF1MA/formResponse"
+    '1': "https://docs.google.com/forms/d/e/1FAIpQLSf3yjjAMaBcFjpSQMRmV-ZW2frkyXEvOAY_1r7ULq_EMgHYUg/formResponse",
+    '2': "https://docs.google.com/forms/d/e/1FAIpQLSeGGmnnjAwMqkk6DGFas14QXgcA6BdanP1_dJ14zQf2C19KWQ/formResponse",
+    '3': "https://docs.google.com/forms/d/e/1FAIpQLSfL701oPlahtK3IZddw1BfUS2EK7tqq0vJhBe9ByIKtzjJ6zQ/formResponse",
+    '4': "https://docs.google.com/forms/d/e/1FAIpQLSdWuWNSIYvhGhuMM6PYgtSlVqSj13w1Zl1u8-_rhBQnc701Jg/formResponse",
+    '5': "https://docs.google.com/forms/d/e/1FAIpQLSefZVKtwZlJElI9glQNNqbmHxkZ3j0SiS_8wTbLGASb9GY5Cw/formResponse",
+    '6': "https://docs.google.com/forms/d/e/1FAIpQLSepZLTKHz-2Py1pxdSD8NsQDgVCwxtU-UxvQXzkraSkLmySaQ/formResponse",
+    '7': "https://docs.google.com/forms/d/e/1FAIpQLSfQ1G-FBspkhmCxtowN7naYNe-DRgVryrxr0lObBKXllqoOgA/formResponse",
+    '8': "https://docs.google.com/forms/d/e/1FAIpQLScfE3Vrp2CCoyxDr-0LZGi3TvsfYZXqD9IhIb9_wMD0laVGQg/formResponse",
+    '9': "https://docs.google.com/forms/d/e/1FAIpQLSeS7gUi_XM5gu_NrZd3Ba8-pvsZiE_J1qtnu2Y3XvogqlkbLg/formResponse",
+    '10': "https://docs.google.com/forms/d/e/1FAIpQLSf3n6fMXa3mP_ij279XKLELfohGwuMfmWWc9fTfM3VgY2oWLg/formResponse"
 };
 
 
